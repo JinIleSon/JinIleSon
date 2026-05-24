@@ -1,10 +1,10 @@
-## 안녕하세요, 손진일입니다.
+# 안녕하세요, 손진일입니다.
 
 끊임없이 배우고, 기록으로 성장을 쌓습니다.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -16,16 +16,16 @@
 
 ---
 
-### 📌 주요 프로젝트
+## 📌 주요 프로젝트
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [BNK 실시간 증권 플랫폼](링크) | 팀장 · 1등 수상 · 실시간 호가·체결 처리 | WebSocket, CompletableFuture, Spring Boot |
-| [공항 지하시설 관리 시스템](링크) | SI 프로젝트 · 공간데이터 파이프라인 | Java, React, Python, GIS |
+| [BNK 실시간 증권 플랫폼](https://github.com/JinIleSon/BNK-The-First-Main-Project) | 팀장 · 1등 수상 · 실시간 호가·체결 처리 | WebSocket, CompletableFuture, Spring Boot |
+| 공항 지하시설 관리 시스템 `Private` | SI 프로젝트 · 공간데이터 파이프라인 | Java, React, Python, GIS |
 
 ---
 
-### 📖 현재 관심사
+## 📖 현재 관심사
 
 - 금융·핀테크 도메인 학습
 - Kotlin 학습 중
@@ -33,6 +33,6 @@
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 📧 Email: sonjinile99@gmail.com  |  💼 GitHub: JinlleSon
