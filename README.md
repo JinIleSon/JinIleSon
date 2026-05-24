@@ -37,5 +37,3 @@
 
 📧 Email: sonjinile99@gmail.com  |  💼 GitHub: JinlleSon
 
-## 🐍 Contribution
-![snake](https://raw.githubusercontent.com/JinIleSon/JinIleSon/output/github-contribution-grid-snake.svg)
