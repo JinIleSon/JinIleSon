@@ -36,9 +36,3 @@
 ## 📬 Contact
 
 📧 Email: sonjinile99@gmail.com  |  💼 GitHub: JinlleSon
-
----
-
-## 📊 Contribution
-
-![3d contrib](https://raw.githubusercontent.com/JinIleSon/JinIleSon/main/profile-3d-contrib/profile-green-animate.svg)
